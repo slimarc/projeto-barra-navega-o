@@ -1,6 +1,6 @@
 <h1 align="center">Barra de navegação</h1>
 
-##Sobre o projeto 🔎:
+## Sobre o projeto 🔎:
 
 Este projeto é uma barra de navegação interativa. A maior parte foi feita no CSS, mas utilizei também um pouco de Java Script. 
 
