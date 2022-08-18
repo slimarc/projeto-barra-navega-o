@@ -13,7 +13,7 @@ Este projeto é uma barra de navegação interativa. A maior parte foi feita no 
 </div>
 
 ## Autor 👨‍🎨:
-Ricardo Lima | Aspirante a front-end developer
+Ricardo Lima | Aspirante a desenvolvedor
 <div>
     <a href="mailto:sricardolimaa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a> 
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
